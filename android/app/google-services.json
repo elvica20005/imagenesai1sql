@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "527629004129",
+    "project_id": "fir-crud2-fef02",
+    "storage_bucket": "fir-crud2-fef02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527629004129:android:b44ed386509457f25ce920",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrud2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527629004129-94t73i9r3ukqdvqhpp13qr37vikenknd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQaXQdozqUYb3u7Kjr1fdR8S0WHph-Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527629004129-94t73i9r3ukqdvqhpp13qr37vikenknd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527629004129:android:8531f8a6ad25c5d15ce920",
+        "android_client_info": {
+          "package_name": "com.example.imagenesai1sql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527629004129-94t73i9r3ukqdvqhpp13qr37vikenknd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQaXQdozqUYb3u7Kjr1fdR8S0WHph-Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527629004129-94t73i9r3ukqdvqhpp13qr37vikenknd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
